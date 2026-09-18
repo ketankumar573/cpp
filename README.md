@@ -21,5 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ketankumar573/cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketankumar573/cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
+## String
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ketankumar573/cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ketankumar573/cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ketankumar573/cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
