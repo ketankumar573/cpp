@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ketankumar573/cpp/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ketankumar573/cpp/tree/master/0152-maximum-product-subarray) |
+| [0724-find-pivot-index](https://github.com/ketankumar573/cpp/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ketankumar573/cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ketankumar573/cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ketankumar573/cpp/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ketankumar573/cpp/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
