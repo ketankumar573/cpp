@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ketankumar573/cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketankumar573/cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/ketankumar573/cpp/tree/master/3525-find-x-value-of-array-ii) |
 ## Math
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
+| [3525-find-x-value-of-array-ii](https://github.com/ketankumar573/cpp/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ketankumar573/cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ketankumar573/cpp/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ketankumar573/cpp/tree/master/0974-subarray-sums-divisible-by-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ketankumar573/cpp/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
