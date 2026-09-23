@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ketankumar573/cpp/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ketankumar573/cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ketankumar573/cpp/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ketankumar573/cpp/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ketankumar573/cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ketankumar573/cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ketankumar573/cpp/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ketankumar573/cpp/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ketankumar573/cpp/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
