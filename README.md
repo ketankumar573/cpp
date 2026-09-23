@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/ketankumar573/cpp/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ketankumar573/cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ketankumar573/cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketankumar573/cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/ketankumar573/cpp/tree/master/3525-find-x-value-of-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ketankumar573/cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ketankumar573/cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ketankumar573/cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketankumar573/cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ketankumar573/cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ketankumar573/cpp/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ketankumar573/cpp/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ketankumar573/cpp/tree/master/0986-interval-list-intersections) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
