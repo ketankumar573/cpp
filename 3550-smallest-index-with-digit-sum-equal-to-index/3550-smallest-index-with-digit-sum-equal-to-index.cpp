@@ -10,7 +10,7 @@ public:
                 }
             if(sum==i){
                 res=min(res,i);
-                return res;
+                return i;
             }
         }
         return -1;
