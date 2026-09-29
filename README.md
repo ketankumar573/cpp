@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ketankumar573/cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ketankumar573/cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ketankumar573/cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ketankumar573/cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketankumar573/cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/ketankumar573/cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ketankumar573/cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ketankumar573/cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1563-stone-game-v](https://github.com/ketankumar573/cpp/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ketankumar573/cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ketankumar573/cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Game Theory
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ketankumar573/cpp/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ketankumar573/cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ketankumar573/cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ketankumar573/cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ketankumar573/cpp/tree/master/1096-brace-expansion-ii) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ketankumar573/cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
